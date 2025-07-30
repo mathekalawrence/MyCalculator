@@ -1,4 +1,5 @@
 print("Wow..the journey is already a flex")
+print
 
 a = 67-90 #Subtraction
 b = 20+5 #Addition
