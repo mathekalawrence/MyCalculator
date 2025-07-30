@@ -10,3 +10,4 @@ f=8788/1000;
 
 print(a, b, c, d, e)
 print(53667/7992)
+print()
