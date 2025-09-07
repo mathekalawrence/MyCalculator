@@ -11,7 +11,6 @@ body{
   */
   background-color: rgba(255, 255, 255, 0.2); /* Semi-transparent white */
   backdrop-filter: blur(10px); /* Frosted glass effect */
-
   border-radius: 5px;
   box-shadow: 0 0 20 rgba(235, 154, 201, 0.2);
   border-style: solid;
